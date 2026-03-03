@@ -14,7 +14,7 @@ O usuário inicia a aplicação e tem acesso a um menu com as opções:
 - Listar autores vivos em determinado ano
 - Listar livros por idioma
 
-[imagem]
+<img width="484" height="248" alt="image" src="https://github.com/user-attachments/assets/fec7fa54-97c2-4ff9-b667-87078b009946" />
 
 A aplicação exibe os livros cadastrados com informações sobre título, autor, idioma e downloads, e permite consultar autores vivos em um ano específico ou livros em um idioma específico.
 
